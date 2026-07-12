@@ -8,7 +8,7 @@ LoginAutomation/
 │
 ├── tests/
 │   └── test_login.py         # All test cases + pytest fixture
-├── reports/
+├   └──reports/
 │   └── Login_Report.xlsx     # Generated automatically on first test run
 │
 ├── utils/
