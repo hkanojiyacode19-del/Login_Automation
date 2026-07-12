@@ -16,11 +16,10 @@ LoginAutomation/
 ├── reports/
 │   └── Login_Report.xlsx     # Generated automatically on first test run
 │
-├── venv/                     # Local virtual environment (not committed)
 │
 ├── config.py                 # Base URL and test credentials
 ├── requirements.txt          # Project dependencies
 ├── .gitignore
 ├── README.md                 # Full project documentation
-└── EXECUTION_GUIDE.md        # Brief "how to run" guide
+
 ```
