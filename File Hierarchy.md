@@ -8,13 +8,13 @@ LoginAutomation/
 │
 ├── tests/
 │   └── test_login.py         # All test cases + pytest fixture
+├── reports/
+│   └── Login_Report.xlsx     # Generated automatically on first test run
 │
 ├── utils/
 │   ├── driver_factory.py     # Chrome WebDriver setup
 │   └── excel_report.py       # Writes results to reports/Login_Report.xlsx
 │
-├── reports/
-│   └── Login_Report.xlsx     # Generated automatically on first test run
 │
 │
 ├── config.py                 # Base URL and test credentials
