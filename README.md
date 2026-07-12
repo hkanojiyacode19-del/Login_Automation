@@ -13,7 +13,10 @@ logged automatically to an Excel report.
 ## Setup
 
 ```bash
-# 1. Navigate to the project folder
+# 1.0 create LoginAutomation folder and pull all the file into the folder
+mkdir LoginAutomation
+
+# 1.1 Navigate to the project folder
 cd LoginAutomation
 
 # 2. Create a virtual environment
